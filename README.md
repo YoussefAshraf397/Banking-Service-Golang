@@ -196,7 +196,3 @@ curl -i --request GET 'http://localhost:3001/v1/transfers'
 
 ## Author
 - Youssef Ashraf Awad - [YoussefAshraf397](https://github.com/YoussefAshraf397)
-
-## License
-Copyright © 2020 [GSabadini](https://github.com/GSabadini).
-This project is [MIT](LICENSE) licensed.
